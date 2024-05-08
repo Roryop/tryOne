@@ -1,0 +1,30 @@
+body {
+    background: url(mainPictures/background.png);
+    margin: 0px;
+}
+
+.container1 {
+    align-content: center;
+}
+
+#pageDiv {
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#sidePictureDiv {
+    float: left;
+    height: fit-content;
+    background-color: red;
+}
+
+#sideImg1 {
+    width: auto;
+    height: 500px;
+}
+
+h1 {
+    text-decoration: overline, underline, wavy;
+    color: aqua;
+}
