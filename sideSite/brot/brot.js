@@ -16,7 +16,7 @@ let sideImg1Main = document.getElementById("sideImg1Main");
    let windowLength = 1;
    let navChildrenAmount = navChildren.length + 1;
    let navDivLength = 2;
-   
+   //for push
        //nav resize
 setInterval(function() {
     windowLength = window.innerWidth;
